@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Nguyen Van Nhat</h1>
-<h3 align="center">A passionate Testing from CTU</h3>
+<h1 align="center">Hi 👋, I'm Nguyen Van Nhat🌞🌞</h1>
+<h3 align="center">I'm learning CanTho University, I love Testing, Design💕💕</h3>
 
 - 📫 How to reach me **vannhat14052002@gmail.com**
 
