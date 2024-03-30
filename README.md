@@ -3,7 +3,6 @@
 
 - 📫 How to reach me **vannhat14052002@gmail.com**
 
-- ⚡ Fun fact **I think I am funny and ... a Loving Heart**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
